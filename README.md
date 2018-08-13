@@ -1,2 +1,2 @@
 # tf_azure_compute
-Based in https://github.com/Azure/terraform-azurerm-compute
+Based on https://github.com/Azure/terraform-azurerm-compute
